@@ -4,10 +4,10 @@ const app = express();
 
 app.get ("/", (req, res) => {
     res.json({
-        hey: "Karthik", 
-        welcome: "To",
+        Hey: "Karthik", 
+        Welcome: "To",
         Heroku: "Demo",
-        sample: "Deployment",
+        Sample: "Deployment",
 
     });
 });

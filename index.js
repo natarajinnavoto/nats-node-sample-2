@@ -6,7 +6,7 @@ app.get ("/", (req, res) => {
     res.json({
         hey: "Karthik", 
         welcome: "To",
-        to: "Heroku Demo",
+        Heroku: "Demo",
         sample: "Deployment",
 
     });
